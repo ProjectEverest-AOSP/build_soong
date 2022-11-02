@@ -264,6 +264,8 @@ vendor\.lineage\..*
 vendor\.lineage\.health.*
 vendor\.lineage\.livedisplay.*
 vendor\.lineage\.touch.*
+lineageos\.platform
+org\.lineageos\.platform\.internal
 
 # NV adds
 com\.nvidia
