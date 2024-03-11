@@ -269,6 +269,14 @@ com.oplus.os
 # OPLUS adds
 com\.oplus\..*
 
+# OnePlus
+com.oplus.*
+net.oneplus.*
+oplus.*
+vendor.oplus.*
+com.oneplus.*
+vendor.oneplus.*
+
 # QC adds
 com.qualcomm.qti
 com.quicinc.tcmiface
