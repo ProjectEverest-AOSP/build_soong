@@ -266,6 +266,9 @@ com\.nvidia\..*
 # OP adds
 com.oplus.os
 
+# OPLUS adds
+com\.oplus\..*
+
 # QC adds
 com.qualcomm.qti
 com.quicinc.tcmiface
